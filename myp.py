@@ -1,1 +1,1 @@
-print  hello bro i am jj")
+prit  hello bro i am jj")
